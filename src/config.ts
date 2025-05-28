@@ -135,7 +135,7 @@ export const themeConfig: ThemeConfig = {
     // social links
     links: [
       {
-        name: 'RSS',
+        name: 'Bing',
         url: '/atom.xml', // or /rss.xml
       },
       {
